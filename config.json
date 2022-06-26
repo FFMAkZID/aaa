@@ -1,9 +1,9 @@
 {
-	"ip":"HYPERIndo.aternos.me",
-	"port": "27217",
-	"name": "BOTSERVER(HYPERINDO)#1",
-	"auto-night-skip":"false",
-	"login-enabled":"false",
+	"ip":"raksempires.ddns.net",
+	"port": "19130",
+	"name": "FFMAkZBOT",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
 	"register-cmd":"/register pass123 ",
 	"login-cmd":"/login pass123 "
 }
