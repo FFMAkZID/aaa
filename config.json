@@ -2,7 +2,7 @@
 	"ip":"raksempires.ddns.net",
 	"port": "19130",
 	"name": "FFMAkZBOT",
-	"auto-night-skip":"true",
+	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register pass123 ",
 	"login-cmd":"/login pass123 "
